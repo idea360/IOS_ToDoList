@@ -17,6 +17,8 @@ class SecondViewController: UIViewController {
         if let item: String = textField.text {
             if(item.characters.count > 1){
                 toDoList.append(item)
+                NSUserDefaults.standardUserDefaults().setObject(toDoList, forKey: "toDoList")
+                textField.text = ""
             } else {
                 errorMessage("Note title cannot be blank")
             }

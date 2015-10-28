@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "47515CBD9CFFD5393B75872B6373EAC617557D36",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "EF267634675BA58AD124B33D145E7BC0F1AF7CB5" : 0,
+    "47515CBD9CFFD5393B75872B6373EAC617557D36" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "42BD433F-AF29-4F13-A944-66DCAD1FA0EF",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "EF267634675BA58AD124B33D145E7BC0F1AF7CB5" : "",
+    "47515CBD9CFFD5393B75872B6373EAC617557D36" : "To%20Do%20List\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "To Do List",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "To Do List.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:idea360\/IOS_ToDoList.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "47515CBD9CFFD5393B75872B6373EAC617557D36"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:idea360\/xcodeprojects.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "EF267634675BA58AD124B33D145E7BC0F1AF7CB5"
+    }
+  ]
+}
